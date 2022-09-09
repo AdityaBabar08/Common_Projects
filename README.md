@@ -1,11 +1,5 @@
-# Common_Projects
-##Just for my friends 
+![Github Template ( @adityababar0_CommanProjects)](https://user-images.githubusercontent.com/92023869/189309816-dd250f68-d531-4da1-af25-b08eb5764913.png)
 
-Logic Designer : Aditya Babar, Ramchandra Warang
-
-Programmer : Aditya Babar
-
-Data Analyst/Adventurer : Anisha Biju
 
 
 
